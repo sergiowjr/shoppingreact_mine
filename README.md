@@ -1,7 +1,5 @@
-# coding-project-template
-
 ## Overview
-This project has 50 points for 20 tasks. As part of the assignment, at least one of your peers will grade your final assignment. Similarly, you will grade one of your peersí projects. Your peer evaluator will be provided with the link to your GitHub repository and the link to your website. Each peer evaluator will receive objective grading criteria so they can determine how many points to assess for each task.
+This project has 50 points for 20 tasks. As part of the assignment, at least one of your peers will grade your final assignment. Similarly, you will grade one of your peers‚Äô projects. Your peer evaluator will be provided with the link to your GitHub repository and the link to your website. Each peer evaluator will receive objective grading criteria so they can determine how many points to assess for each task.
 
 ## Grading Criteria Overview
 ### 50 points, 20 tasks
@@ -33,9 +31,9 @@ This project has 50 points for 20 tasks. As part of the assignment, at least one
 3.3. After selecting it, the appropriate plant gets added to the shopping cart. **--OK--**
 
 ### Header (7 points, 3 tasks)
-1. Displays on both the product listing page and shopping cart page 2 points
+1. Displays on both the product listing page and shopping cart page **2 points --OK--**
 
-2. A shopping cart icon with a value that displays the total number of items in the cart: 3 points
+2. A shopping cart icon with a value that displays the total number of items in the cart: **3 points --OK--**
 
 3. Navigation to either of the other pages: **2 points --OK--**
 
@@ -44,7 +42,7 @@ This project has 50 points for 20 tasks. As part of the assignment, at least one
 
 2. The total cost of all items in the cart: **2 points --OK--**
 
-3. A checkout button (displays the message ìComing Soonî or similar): **1 point --OK--**
+3. A checkout button (displays the message ‚ÄúComing Soon‚Äù or similar): **1 point --OK--**
 
 4. A continue shopping button that links to the product listing page: **2 points --OK--**
 
