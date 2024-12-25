@@ -38,7 +38,7 @@ This project has 50 points for 20 tasks. As part of the assignment, at least one
 3. Navigation to either of the other pages: **2 points --OK--**
 
 ### Shopping cart page (23 points, 8 tasks)
-1. The total number of plants in the cart: 2 points
+1. The total number of plants in the cart: **2 points --OK--**
 
 2. The total cost of all items in the cart: **2 points --OK--**
 
@@ -58,5 +58,5 @@ This project has 50 points for 20 tasks. As part of the assignment, at least one
 
 SETUP
 
-npm install
-npm run dev
+1. npm install
+2. npm run dev
